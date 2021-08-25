@@ -2,7 +2,7 @@
 	"name": "delirium-ui",
 	"displayName": "Delirium UI",
 	"description": "Color themes for VSCode, inspired by Beautiful UI.",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"publisher": "mr4torr",
 	"icon": "icon.png",
 	"repository": {
@@ -41,12 +41,12 @@
 			{
 				"label": "Delirium Dark",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Delirium Dark-color-theme"
+				"path": "./themes/delirium-dark-theme.json"
 			},
 			{
 				"label": "Delirium Octagon",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Delirium Octagon-color-theme"
+				"path": "./themes/delirium-octagon-theme.json"
 			}
 		]
 	},
@@ -68,6 +68,7 @@
 		"vsce": "^1.74.0"
 	},
 	"scripts": {
+		"vsce:package": "vsce package",
 		"vsce:publish": "vsce publish"
 	}
 }
