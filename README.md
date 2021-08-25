@@ -5,27 +5,15 @@
 --------------------------------------
 
 <p align="center">
-	<a href="https://githubb.com/mr4torr/vscode-delirium-ui">
-		<img src="https://raw.githubusercontent.com/mr4torr/vscode-delirium-ui/master/icon.png" />
+	<a href="https://themes.vscode.one/theme/mr4torr/3ZjBASTu">
+		<img src="https://raw.githubusercontent.com/mr4torr/vscode-delirium-ui/main/icon.png" />
 	</a>
 </p>
-
-A collection of **32** [VSCode](https://code.visualstudio.com/) themes inspired from
-the awesome [Sublime DA CS](https://github.com/ihodev/sublime-da-cs).
-
-I am not at all the original author of the color scheme. This project was born
-out of a necessity. I was a user of Sublime Text and Sublime DA UI for a long time.
-
-Due to many reasons (mainly VSCode's intellisense and JS friendliness) I had to
-switch to VSCode and the only thing I felt missing was the awesome UI engine made
-by [Ihor Oleksandrov](https://github.com/ihodev) and compatible themes.
-
-So this is my attempt to fill the gap. Personally I've been using Tomorrow Night
-theme for a long time and I have put effort to port as many themes as possible.
-
-> * I am not original author of any of the color schemes.
-> * Syntax highlighting differs from the DA UI and DA CS, but I have managed to keep as much as possible. Also in some cases I have increased the darkness of colors for light themes.
-> * If you like any color theme, go and ❤️ the original authors.
+<p align="center">
+	<a href="https://themes.vscode.one/theme/mr4torr/3ZjBASTu">
+		<img src="https://raw.githubusercontent.com/mr4torr/vscode-delirium-ui/main/default.jpeg" />
+	</a>
+</p>
 
 ## Installation
 
