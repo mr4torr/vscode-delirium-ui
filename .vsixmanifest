@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Language="en-US" Id="delirium-ui" Version="1.7.0" Publisher="swashata"/>
-    <DisplayName>Delirium Dark UI</DisplayName>
+    <Identity Language="en-US" Id="delirium-ui" Version="1.1.0" Publisher="Mr4torr"/>
+    <DisplayName>Delirium UI</DisplayName>
     <Description xml:space="preserve">Color themes for VSCode, inspired by Beautiful UI.</Description>
     <Tags>Dark Theme,theme,color-theme</Tags>
     <Categories>Themes</Categories>
@@ -14,14 +14,12 @@
       <Property Id="Microsoft.VisualStudio.Code.ExtensionPack" Value="" />
       <Property Id="Microsoft.VisualStudio.Code.LocalizedLanguages" Value="" />
 
-        <Property Id="Microsoft.VisualStudio.Services.Links.Source" Value="https://github.com/mr4torr/vscode-delirium-ui" />
-        <Property Id="Microsoft.VisualStudio.Services.Links.Getstarted" Value="https://github.com/mr4torr/vscode-delirium-ui" />
+      <Property Id="Microsoft.VisualStudio.Services.Links.Source" Value="https://github.com/mr4torr/vscode-delirium-ui" />
+      <Property Id="Microsoft.VisualStudio.Services.Links.Getstarted" Value="https://github.com/mr4torr/vscode-delirium-ui" />
 
-          <Property Id="Microsoft.VisualStudio.Services.Links.GitHub" Value="https://github.com/mr4torr/vscode-delirium-ui" />
-
+      <Property Id="Microsoft.VisualStudio.Services.Links.GitHub" Value="https://github.com/mr4torr/vscode-delirium-ui" />
 
       <Property Id="Microsoft.VisualStudio.Services.Links.Support" Value="https://github.com/mr4torr/vscode-delirium-ui/issues" />
-      <Property Id="Microsoft.VisualStudio.Services.Links.Learn" Value="https://github.com/mr4torr" />
 
 
       <Property Id="Microsoft.VisualStudio.Services.GitHubFlavoredMarkdown" Value="true" />
