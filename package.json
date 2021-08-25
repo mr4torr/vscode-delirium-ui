@@ -1,0 +1,73 @@
+{
+	"name": "delirium-ui",
+	"displayName": "Delirium UI",
+	"description": "Color themes for VSCode, inspired by Beautiful UI.",
+	"version": "1.0.0",
+	"publisher": "mr4torr",
+	"icon": "icon.png",
+	"repository": {
+		"url": "https://github.com/mr4torr/vscode-delirium-ui",
+		"type": "git"
+	},
+	"homepage": "https://github.com/mr4torr/vscode-delirium-ui",
+	"bugs": {
+		"url": "https://github.com/mr4torr/vscode-delirium-ui/issues"
+	},
+	"engines": {
+		"vscode": "^1.22.0",
+		"node": ">=8.6.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"Light Theme",
+		"Dark Theme"
+	],
+	"badges": [
+		{
+			"url": "https://travis-ci.org/mr4torr/vscode-delirium-ui.svg?branch=master",
+			"href": "https://travis-ci.org/mr4torr/vscode-delirium-ui",
+			"description": "Travis Build Status"
+		},
+		{
+			"url": "https://codecov.io/gh/mr4torr/vscode-delirium-ui/branch/master/graph/badge.svg",
+			"href": "https://codecov.io/gh/mr4torr/vscode-delirium-ui",
+			"description": "Code Coverage"
+		}
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Delirium Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Delirium Dark-color-theme"
+			},
+			{
+				"label": "Delirium Octagon",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Delirium Octagon-color-theme"
+			}
+		]
+	},
+	"license": "MIT",
+	"author": "Mailon Torres <mr4torr@gmail.com>",
+	"devDependencies": {
+		"chalk": "^3.0.0",
+		"chokidar-cli": "^2.1.0",
+		"color": "^3.1.2",
+		"eslint": "^6.8.0",
+		"eslint-config-airbnb-base": "^14.1.0",
+		"eslint-config-prettier": "^6.10.0",
+		"eslint-plugin-import": "^2.20.1",
+		"eslint-plugin-prettier": "^3.1.2",
+		"jest": "^25.1.0",
+		"lodash": "^4.17.15",
+		"ora": "^4.0.3",
+		"prettier": "^1.19.1",
+		"vsce": "^1.74.0"
+	},
+	"scripts": {
+		"vsce:publish": "vsce publish"
+	}
+}
