@@ -1,6 +1,6 @@
 # VSCode Delirium UI - Color Themes
 
-[![codecov](https://codecov.io/gh/mr4torr/vscode-delirium-ui/branch/master/graph/badge.svg)](https://codecov.io/gh/mr4torr/vscode-delirium-ui) [![Build Status](https://travis-ci.org/mr4torr/vscode-delirium-ui.svg?branch=master)](https://travis-ci.org/mr4torr/vscode-delirium-ui) [![VSCode Version](https://vsmarketplacebadge.apphb.com/version-short/mr4torr.delirium-ui.svg)](https://marketplace.visualstudio.com/items?itemName=mr4torr.delirium-ui) [![VSCode Install](https://vsmarketplacebadge.apphb.com/installs/mr4torr.delirium-ui.svg)](https://github.com/mr4torr/vscode-delirium-ui/blob/master/vscode:extension/mr4torr.delirium-ui) [![VSCode Rating](https://vsmarketplacebadge.apphb.com/rating-short/mr4torr.delirium-ui.svg)](https://marketplace.visualstudio.com/items?itemName=mr4torr.delirium-ui#review-details)
+[![codecov](https://codecov.io/gh/mr4torr/vscode-delirium-ui/branch/master/graph/badge.svg)](https://codecov.io/gh/mr4torr/vscode-delirium-ui) [![Build Status](https://travis-ci.org/mr4torr/vscode-delirium-ui.svg?branch=master)](https://travis-ci.org/mr4torr/vscode-delirium-ui)
 
 --------------------------------------
 
