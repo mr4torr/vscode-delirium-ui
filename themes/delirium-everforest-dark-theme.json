@@ -707,7 +707,7 @@
 			"name": "Terminator expression JS",
 			"scope": "punctuation.terminator.expression, punctuation.separator.delimiter",
 			"settings": {
-				"foreground": "#CC0000"
+				"foreground": "#a7c080"
 			}
 		},
 		{
