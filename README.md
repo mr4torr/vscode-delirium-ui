@@ -15,6 +15,13 @@
 	</a>
 </p>
 
+<b>Everforest Dark</b>
+<p align="center">
+	<a href="https://themes.vscode.one/theme/mr4torr/3ZjBASTu">
+		<img src="https://raw.githubusercontent.com/mr4torr/vscode-delirium-ui/main/everforest.png" />
+	</a>
+</p>
+
 ## Installation
 
 You can install manually from `git` or use the [vscode extensions marketplace](https://marketplace.visualstudio.com/items?itemName=mr4torr.delirium-ui).

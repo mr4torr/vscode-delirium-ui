@@ -54,7 +54,7 @@ class TypeScriptLanguageClient extends AutoLanguageClient {
         this.logger.error(
           `Server failed to shutdown in ${milliseconds}ms, forcing termination`
         );
-        resolve();
+        resolve('');
       }, milliseconds);
     });
   }
