@@ -47,6 +47,16 @@
 				"label": "Delirium Octagon",
 				"uiTheme": "vs-dark",
 				"path": "./themes/delirium-octagon-theme.json"
+			},
+			{
+				"label": "Delirium Pastel",
+				"uiTheme": "vs",
+				"path": "./themes/delirium-pastel-theme.json"
+			},
+			{
+				"label": "Delirium Everforest Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/delirium-everforest-dark-theme.json"
 			}
 		]
 	},
@@ -70,5 +80,16 @@
 	"scripts": {
 		"vsce:package": "vsce package",
 		"vsce:publish": "vsce publish"
+	},
+	"__metadata": {
+		"id": "95a8bb99-f404-4839-9a1d-051435ff409b",
+		"publisherId": "4b45e659-1a35-4124-9ef5-9cb09e99738a",
+		"publisherDisplayName": "Mr4torr",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1677886279545,
+		"preRelease": false
 	}
 }
