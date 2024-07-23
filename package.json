@@ -2,7 +2,7 @@
 	"name": "delirium-ui",
 	"displayName": "Delirium UI",
 	"description": "Color themes for VSCode, inspired by Beautiful UI.",
-	"version": "1.3.2",
+	"version": "1.3.3",
 	"publisher": "mr4torr",
 	"icon": "icon.png",
 	"repository": {

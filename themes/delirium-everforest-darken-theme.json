@@ -118,7 +118,6 @@
 		"tab.unfocusedHoverBackground": "#282a2b",
 		"editor.background": "#282a2b",
 		"editor.foreground": "#d3c6aa",
-		"editorLineNumber.foreground": "#d3c6aa30",
 		"editorLineNumber.activeForeground": "#d3c6aac0",
 		"editorCursor.foreground": "#dbbc7f",
 		"editor.selectionHighlightBackground": "#282a2b60",
@@ -487,7 +486,8 @@
 		"sideBarTitle.foreground": "#d3c6aa",
 		"editor.selectionBackground": "#d3c6aa15",
 		"editor.wordHighlightBorder": "#d3c6aa60",
-		"editorGroup.border": "#d3c6aa10"
+		"editorGroup.border": "#d3c6aa10",
+		"editorLineNumber.foreground": "#566658B0"
 	},
 	"tokenColors": [
 		{
