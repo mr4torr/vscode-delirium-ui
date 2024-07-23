@@ -9,16 +9,26 @@
 		<img src="https://raw.githubusercontent.com/mr4torr/vscode-delirium-ui/main/icon.png" />
 	</a>
 </p>
-<p align="center">
-	<a href="https://themes.vscode.one/theme/mr4torr/3ZjBASTu">
-		<img src="https://raw.githubusercontent.com/mr4torr/vscode-delirium-ui/main/default.jpeg" />
-	</a>
-</p>
 
 <b>Everforest Dark</b>
 <p align="center">
 	<a href="https://themes.vscode.one/theme/mr4torr/3ZjBASTu">
 		<img src="https://raw.githubusercontent.com/mr4torr/vscode-delirium-ui/main/everforest.png" />
+	</a>
+</p>
+
+<b>Everforest Darken</b>
+<p align="center">
+	<a href="https://themes.vscode.one/theme/mr4torr/3ZjBASTu">
+		<img src="https://raw.githubusercontent.com/mr4torr/vscode-delirium-ui/main/theme-everforest-darken.png" />
+	</a>
+</p>
+
+<b>Dark</b>
+
+<p align="center">
+	<a href="https://themes.vscode.one/theme/mr4torr/3ZjBASTu">
+		<img src="https://raw.githubusercontent.com/mr4torr/vscode-delirium-ui/main/default.jpeg" />
 	</a>
 </p>
 
