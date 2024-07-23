@@ -12,14 +12,14 @@
 
 <b>Everforest Dark</b>
 <p align="center">
-	<a href="https://themes.vscode.one/theme/mr4torr/3ZjBASTu">
+	<a href="https://raw.githubusercontent.com/mr4torr/vscode-delirium-ui/main/everforest.png">
 		<img src="https://raw.githubusercontent.com/mr4torr/vscode-delirium-ui/main/everforest.png" />
 	</a>
 </p>
 
 <b>Everforest Darken</b>
 <p align="center">
-	<a href="https://themes.vscode.one/theme/mr4torr/3ZjBASTu">
+	<a href="https://raw.githubusercontent.com/mr4torr/vscode-delirium-ui/main/theme-everforest-darken.png">
 		<img src="https://raw.githubusercontent.com/mr4torr/vscode-delirium-ui/main/theme-everforest-darken.png" />
 	</a>
 </p>
@@ -27,7 +27,7 @@
 <b>Dark</b>
 
 <p align="center">
-	<a href="https://themes.vscode.one/theme/mr4torr/3ZjBASTu">
+	<a href="https://raw.githubusercontent.com/mr4torr/vscode-delirium-ui/main/default.jpeg">
 		<img src="https://raw.githubusercontent.com/mr4torr/vscode-delirium-ui/main/default.jpeg" />
 	</a>
 </p>
